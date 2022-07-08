@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# ReactJS Phantom Website NavLink
+
+NavLink React Router, used on Navbar and Footer, good foundation for a website.
+
+![Screen Shot 2022-07-08 at 2 11 32 PM](https://user-images.githubusercontent.com/92414210/178071215-17fb3d64-ea95-4cce-91d6-62c1a7d19921.png)
+
+
+![Screen Shot 2022-07-08 at 2 11 42 PM](https://user-images.githubusercontent.com/92414210/178071242-aec469db-5aaa-4545-b549-00d82ac352ac.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
